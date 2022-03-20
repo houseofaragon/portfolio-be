@@ -37,6 +37,9 @@
     },
     "meta": {
       "type": "string"
+    },
+    "order": {
+      "type": "integer"
     }
   }
 }
